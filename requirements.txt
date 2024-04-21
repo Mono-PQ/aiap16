@@ -1,0 +1,8 @@
+pandas==2.0.3
+numpy==1.21.0
+plotly-express==0.4.1
+scikit-learn==1.2.2
+ipykernel==6.23.1
+xgboost==2.0.3
+requests==2.19.1
+kaleido==0.2.1
